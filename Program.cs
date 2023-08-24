@@ -24,8 +24,8 @@ namespace Labb1Azure
 
 
             //Config for the language service
-            Uri endpoint = new Uri("https://qnaconsolewesteurope.cognitiveservices.azure.com/"); //Language Endpoint
-            AzureKeyCredential credential = new AzureKeyCredential("2e5e39f0f9a445d8a124541ff74a27b3"); // Language Key
+            Uri endpoint = new Uri("https://theshyqna.cognitiveservices.azure.com/"); //Language Endpoint
+            AzureKeyCredential credential = new AzureKeyCredential("5bcf35d8ad0f4616b4a75b140f36309d"); // Language Key
             string projectName = "LearnFAQ"; // Project name
             string deploymentName = "production";
 
